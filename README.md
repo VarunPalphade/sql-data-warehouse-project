@@ -2,6 +2,14 @@
 
 
 ```
+Welcome to the Data Warehouse and Analytics Project repository!
+This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse
+to generating actionable insights. Designed as a portfolio project, it highlights industry best practices in data
+engineering and analytics.
+
+```
+
+```
 sql-data-warehouse-project/
 ├── 00_setup/               the setup guide, and the one-click Docker start for Mac
 ├── 01_datasets/            the six source files the project loads
